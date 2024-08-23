@@ -1,0 +1,10 @@
+{
+  "appId": "live.gradescout.test",
+  "appName": "CapacitorTest",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
